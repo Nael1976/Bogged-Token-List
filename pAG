@@ -1,0 +1,6 @@
+<iframe
+  src="https://teams.bogged.finance/embeds/chart?address=0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c&chain=bsc&charttype=candles&theme=dark&defaultinterval=15m&showchartbutton=false"
+  frameborder="0"
+  height="400px"
+  width="800px"
+></iframe>
